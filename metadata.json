@@ -1,0 +1,6 @@
+{
+  "name": "AegisHealth Intelligence Canvas",
+  "description": "Hospital executive decision support, patient feedback insight, experience & equity monitoring, and complaint triage canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
